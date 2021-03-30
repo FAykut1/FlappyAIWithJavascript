@@ -1,0 +1,14 @@
+{
+  "name": "flappybirdclone",
+  "version": "1.0.0",
+  "description": "Flappy bird clone with machine learning!",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Fatih Aykut",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
